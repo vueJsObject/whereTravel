@@ -1,7 +1,7 @@
 # wheretravel
 
 > A Vue.js project
-霏霏 
+
 ## Build Setup
 
 ``` bash
