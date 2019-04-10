@@ -1,4 +1,4 @@
-# wheretravel09
+# wheretravel
 
 > A Vue.js project
 

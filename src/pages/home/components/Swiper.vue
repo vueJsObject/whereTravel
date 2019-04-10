@@ -21,7 +21,7 @@ export default {
       },
       swiperList: [{
         id: '0001',
-        imgUrl: 'http://img1.qunarzz.com/piao/fusion/1801/93/ce59d182aca07102.jpg_640x200_ba03d44c.jpg'
+        imgUrl: 'http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/5aed0c962f09f0681d31c6e7a159a80d.jpg_750x200_5929f4c9.jpg'
       }, {
         id: '0002',
         imgUrl: 'http://img1.qunarzz.com/piao/fusion/1801/93/ce59d182aca07102.jpg_640x200_ba03d44c.jpg'
