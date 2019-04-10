@@ -1,30 +1,18 @@
-# wheretravel
+# wheretravel09
 
 > A Vue.js project
 
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
-
+1.vue init webpack wheretravel
+2.npm install -g cnpm --registry=https://registry.npm.taobao.org
+3.npm install -g vue-cli
+4.npm install
 # serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+5.npm run dev
+6.npm install fastclick --save
+7.npm install stylus --save
+8.npm install stylus-loader --save
+9.npm install vue-awesome-swiper@2.6.7 --save
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
