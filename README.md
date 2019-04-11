@@ -15,4 +15,5 @@
 7.npm install stylus --save
 8.npm install stylus-loader --save
 9.npm install vue-awesome-swiper@2.6.7 --save
+10.npm install axios --save
 ```
