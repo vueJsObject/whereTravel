@@ -12,12 +12,12 @@ export default {
 }
 </script>
 <style lang="stylus" scoped>
-@import '~styles/varibles.styl';
+@import '~styles/varibles.styl'
   .header
     position: relative
     overflow: hidden
-    height: headerHeight
-    line-height: headerHeight
+    height: $headerHeight
+    line-height: $headerHeight
     text-align: center
     color: #fff
     background: $bgColor
