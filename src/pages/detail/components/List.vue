@@ -24,7 +24,6 @@ export default {
 }
 </script>
 <style lang="stylus" scoped>
-// @import '~styles/varibles.styl'
   .item-title-icon
     position: relative
     left: .06rem

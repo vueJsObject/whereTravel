@@ -44,7 +44,7 @@ export default {
 }
 </script>
 <style lang="stylus" scoped>
-  .container >>> .swiper-.container
+  .container >>> .swiper-container
     overflow: inherit
   .container
     display: flex
