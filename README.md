@@ -15,5 +15,6 @@
 9.npm install vue-awesome-swiper@2.6.7 --save
 10.npm install axios --save
 11.npm install better-scroll --save
+12.npm install vuex --save
 ```
 [better-scroll](https://github.com/ustbhuangyi/better-scroll)
