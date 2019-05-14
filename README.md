@@ -1,7 +1,7 @@
 # wheretravel
 
 > A Vue.js project
-lll
+
 ## Build Setup
 ``` bash
 1.vue init webpack wheretravel
